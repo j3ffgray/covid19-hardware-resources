@@ -57,7 +57,7 @@ General resources:
 - [COVID-19 Ventilator Projects and Resources and FAQ](https://github.com/PubInv/covid19-vent-list)
 - [MIT E-Vent Project](https://medium.com/extremetech-access/mit-develops-cheap-open-source-ventilator-for-coronavirus-treatment-ebc7bf6c16a0) - MIT Open-source initiative for ~$100, revisited for current pandemic needs
 
-# :scissors Face Coverings
+# :scissors: Face Coverings
 
 - [Why We Should All Wear Masks - There is a new scientific rationale](https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71)
 - [No-Sew Pleated Face Mask with Handkerchief and Hair Tie](http://blog.japanesecreations.com/no-sew-face-mask-with-handkerchief-and-hair-tie?fbclid=IwAR0mie9o318EcE9zG2eA39M_sOHxh5l2T9B1IMl-Oal0MdCnv0ZaNgzOSHc)
