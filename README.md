@@ -3,17 +3,17 @@
 ## Contents
 
 - [Overview](#overview)
-- [Getting Started](#getting-started)
-- [PPE](#ppe)
+- [Getting Started](#user-content-hammer-getting-started)
+- [PPE](#user-content-mask-ppe)
   - [Masks](#masks)
   - [Face Shields](#face-shields)
   - [Respirator Projects](#respirator-projects)
-- [Face Coverings](#face-coverings)
+- [Face Coverings](#user-content-scissors-face-coverings)
 - [Aerosol Box](#aerosol-box)
-- [Proposals, Challenges, Open Calls](#proposals-challenges-open-calls)
-- [Organizations](#organizations)
-- [Donate](#donate)
-- [Additional Resources and References](#additional-resources-and-references)
+- [Proposals, Challenges, Open Calls](#user-content-mega-proposals-challenges-open-calls)
+- [Organizations](#user-content-blue_book-organizations)
+- [Donate](#user-content-money_with_wings-donate)
+- [Additional Resources and References](#user-content-bookmark_tabs-additional-resources-and-references)
 
 ## Overview
 
