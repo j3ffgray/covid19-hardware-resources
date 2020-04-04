@@ -46,6 +46,7 @@ General resources:
 ## Face Shields
 
 - [Prusa Face Shields](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) - Design from Prusa (3D-printer maker), verifications through Czech Ministry of Health, now mass adoption in many countries
+- [Bauer Face Shields](https://bauer.a.bigcontent.io/v1/static/Bauer_FaceShield_Spec-Art_r1)
 - [OpenFacePPE - Face Shield V1](https://open-face-ppe.now.sh/) - Built for use in NYC
 - [Face Shield Designs to fill the gap](https://www.delve.com/insights/face-shield-designs-to-fill-the-gap)
 - [Cutable Face Shield](https://drive.google.com/file/d/1fUDOc13uTk8e4U56UphDj7uT9XeA4A-F/view) - [Twitter reference](https://twitter.com/SeamusBlackley/status/1242512863819792385)
