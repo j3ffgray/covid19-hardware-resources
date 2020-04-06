@@ -100,7 +100,7 @@ Other lists with resources:
 - [Deaconess Medical Center - Mask Donation](https://www.deaconess.com/How-to-make-a-Face-Mask/Mask-Donations?state=new%20york&utm_source=Gotham+Quilts&utm_campaign=0897859841-Jan_29_email_1_29_2016_COPY_01&utm_medium=email&utm_term=0_7accea4b9b-0897859841-274335593&mc_cid=0897859841&mc_eid=b00bd738b0)
 - [Operation We Can Sew It - Mask Drive](https://mailchi.mp/efc697ab960e/update-yeskeep-sewing-we-have-a-plan?e=bcb877e8ff&utm_source=Gotham+Quilts&utm_campaign=0897859841-Jan_29_email_1_29_2016_COPY_01&utm_medium=email&utm_term=0_7accea4b9b-0897859841-274335593&mc_cid=0897859841&mc_eid=b00bd738b0)
 - [Sew Sweetness](https://www.facebook.com/sewsweetness/photos/a.676411969055428/3533451130018150/?type=3&theater) - Raising money for masks and local support.
-- 
+- [Meals for Heroes](https://www.doing4others.org/) - Donate money for food for the frontline, as a one-time or recurring gift. NYC-based (for now, but aiming to expand). Thanks Whitney!
 
 
 # :bookmark_tabs: Additional Resources and References
