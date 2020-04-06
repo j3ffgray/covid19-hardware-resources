@@ -55,6 +55,7 @@ General resources:
 ## Respirator Projects
 
 - [Pandemic Ventilators Technical Components Overview](https://docs.google.com/document/d/1hAxSfdFFvqBNBsYqZE3etdbulUlksM9-g6kab-SWmpI/edit#heading=h.nkjvdflw86mn) - Thanks Andy Lee
+- [Aerobreath $100 Ventalator Project](https://www.aerobreath.us/)
 - [COVID-19 Ventilator Projects and Resources and FAQ](https://github.com/PubInv/covid19-vent-list)
 - [MIT E-Vent Project](https://medium.com/extremetech-access/mit-develops-cheap-open-source-ventilator-for-coronavirus-treatment-ebc7bf6c16a0) - MIT Open-source initiative for ~$100, revisited for current pandemic needs
 
