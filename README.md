@@ -42,6 +42,7 @@ General resources:
 
 - [Lowell Mask Design](https://lowellmakes.com/3d-printed-masks/) - One of the initial 3D printed mask designs
 - [Crash Space - 3D-Printed Masks Repository](https://github.com/CRASHSpace/COVID-19-3dprints/) - Additional resources and mask designs available here as well, LA-based
+- [Ear Relief Strap Adjusters](https://www.facebook.com/photo.php?fbid=10156905638607377&set=pcb.10156905641747377&type=3&__tn__=HH-R&eid=ARCEOtxG_4r44_hHqjLeXDKv-XL7kNp3Lx8N_yU_8g_NzdHUIKB3GlrGFwgAJjp6aWh-G9FuAitF01R3) - [Thingiverse STL Location](https://www.thingiverse.com/thing:4249113?fbclid=IwAR3y_zk6QXaUvh5o1EH-MbWhiZXrmxNmxQ1TDYmmK0tiqoGNA9HVJ2f68Ls), thanks for the lead Sasha.
 
 ## Face Shields
 
@@ -69,6 +70,8 @@ General resources:
 - [Michelle Kim](https://www.instagram.com/p/B-gCNGUBTxo/) - Local LA Fashion Designer, Cranking out masks for individuals and healthcare on demand
 - [Improved Fitted Mask Tutorial](https://imgur.com/gallery/CifCggl)
 - [DIY Cloth Face Mask](https://www.instructables.com/id/DIY-Cloth-Face-Mask/)
+- [How to Sew a Face Mask](https://gothamquilts.com/wp/wp-content/uploads/2020/FaceMaskPattern.pdf?utm_source=Gotham+Quilts&utm_campaign=0897859841-Jan_29_email_1_29_2016_COPY_01&utm_medium=email&utm_term=0_7accea4b9b-0897859841-274335593&mc_cid=0897859841&mc_eid=b00bd738b0) - From Gotham Quilts newsletter (thanks Tracie!)
+- [Fabric Mask with Filter Pocket](https://www.makershabitat.com/blogs/the-maker-s-habitat-blog/diy-covid-19-fabric-mask-with-filter-pocket-instructions) - From Maker's Habitat, thanks Sasha!
 
 Other lists with resources:
 - [Sewing face masks to help fill the supply shortage](https://docs.google.com/document/d/1bWtAsQmpXtcMnUK922y3FGd_4yQJ0cs6z7kryhKg8_E/edit#heading=h.44xs1soex7hg)
@@ -93,6 +96,11 @@ Other lists with resources:
 - [100 Million Mask Challenge](https://www.providence.org/lp/100m-masks)
 - [Get Us PPE](https://getusppe.org/states/)
 - [Joann Fabrics - Donation Portal](https://www.joann.com/make-to-give-response/) (they also have plans for face coverings)
+- [Caring Together - Atlantic Health](https://www.atlantichealth.org/patients-visitors/donate-volunteer/donate-supplies-covid-19.html?utm_source=Gotham+Quilts&utm_campaign=0897859841-Jan_29_email_1_29_2016_COPY_01&utm_medium=email&utm_term=0_7accea4b9b-0897859841-274335593&mc_cid=0897859841&mc_eid=b00bd738b0)
+- [Deaconess Medical Center - Mask Donation](https://www.deaconess.com/How-to-make-a-Face-Mask/Mask-Donations?state=new%20york&utm_source=Gotham+Quilts&utm_campaign=0897859841-Jan_29_email_1_29_2016_COPY_01&utm_medium=email&utm_term=0_7accea4b9b-0897859841-274335593&mc_cid=0897859841&mc_eid=b00bd738b0)
+- [Operation We Can Sew It - Mask Drive](https://mailchi.mp/efc697ab960e/update-yeskeep-sewing-we-have-a-plan?e=bcb877e8ff&utm_source=Gotham+Quilts&utm_campaign=0897859841-Jan_29_email_1_29_2016_COPY_01&utm_medium=email&utm_term=0_7accea4b9b-0897859841-274335593&mc_cid=0897859841&mc_eid=b00bd738b0)
+- [Sew Sweetness](https://www.facebook.com/sewsweetness/photos/a.676411969055428/3533451130018150/?type=3&theater) - Raising money for masks and local support.
+- 
 
 
 # :bookmark_tabs: Additional Resources and References
