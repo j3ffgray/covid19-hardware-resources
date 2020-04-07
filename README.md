@@ -47,6 +47,7 @@ General resources:
 ## Face Shields
 
 - [Prusa Face Shields](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1) - Design from Prusa (3D-printer maker), verifications through Czech Ministry of Health, now mass adoption in many countries
+- [Budmen Face Shields](https://budmen.com/) - Another popular face shield design, V4 just released
 - [Bauer Face Shields](https://bauer.a.bigcontent.io/v1/static/Bauer_FaceShield_Spec-Art_r1)
 - [OpenFacePPE - Face Shield V1](https://open-face-ppe.now.sh/) - Built for use in NYC
 - [Face Shield Designs to fill the gap](https://www.delve.com/insights/face-shield-designs-to-fill-the-gap)
@@ -93,6 +94,7 @@ Other lists with resources:
 
 # :money_with_wings: Donate 
 
+- [Mutual Aid Spreadsheet (by state)](https://docs.google.com/spreadsheets/d/1C9Emmohz_yMh-PG0pLvQjSKHbYhdGhWfBrjBFgIGHtc/edit#gid=0)
 - [100 Million Mask Challenge](https://www.providence.org/lp/100m-masks)
 - [Get Us PPE](https://getusppe.org/states/)
 - [Joann Fabrics - Donation Portal](https://www.joann.com/make-to-give-response/) (they also have plans for face coverings)
